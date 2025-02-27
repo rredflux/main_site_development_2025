@@ -71,6 +71,34 @@
 							"src": ["file:./assets/fonts/oxygen_mono_regular.ttf"]
 						}
 					]
+				},
+				{
+					"name": "AnonymousPro",
+					"slug": "AnonymousPro",
+					"fontFamily": "AnonymousPro",
+					"fontFace": [
+						{
+							"fontFamily": "AnonymousPro",
+							"fontWeight": "700",
+							"fontStyle": "bold",
+							"fontStretch": "normal",
+							"src": ["file:./assets/fonts/AnonymousPro_Bold.ttf"]
+						},
+						{
+							"fontFamily": "AnonymousPro",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": ["file:./assets/fonts/AnonymousPro_Regular.ttf"]
+						},
+						{
+							"fontFamily": "AnonymousPro",
+							"fontWeight": "400",
+							"fontStyle": "italic",
+							"fontStretch": "normal",
+							"src": ["file:./assets/fonts/AnonymousPro_Italic.ttf"]
+						}
+					]
 				}
 			]
 		}
