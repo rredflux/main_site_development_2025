@@ -1,4 +1,7 @@
-.wp-block-button .wp-block-button.is-style-icon::after{
+.wp-block-button .is-style-testing{
     content: ">";
     margin-left: 10px;
+    color: white;
+    background-color: red;
+    border: 0.2rem solid pink;
 }
