@@ -8,3 +8,6 @@
  * @since 1.0.0
  */
 require_once get_theme_file_path( 'inc/hooks.php' );
+
+require_once get_theme_file_path( 'inc/woocommerce.php' );
+
