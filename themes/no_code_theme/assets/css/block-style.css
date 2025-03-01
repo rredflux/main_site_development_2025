@@ -1,0 +1,4 @@
+.wp-block-button .wp-block-button.is-style-icon::after{
+    content: ">";
+    margin-left: 10px;
+}
