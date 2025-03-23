@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "SpacerStyle",
+	"slug": "SpacerStyle",
+	"blockTypes": [ "core/spacer" ],
+	"styles": {
+		"dimensions": {
+            "minHeight": "2rem"
+        }
+    }   
+}

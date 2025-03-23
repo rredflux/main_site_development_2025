@@ -6,6 +6,7 @@
 	"blockTypes": [ "core/list" ],
 	"styles": {
 		"border": {
+            "style": "solid",
 			"radius": "1rem",
             "color": "#FFFFFF"
 		},
@@ -19,10 +20,10 @@
 	    },
         "spacing": {
             "padding": {
-                "top": "0.44rem",
-                "bottom": "0.44rem",
-                "left": "1.5rem",
-                "right": "1.5rem"
+                "top": "1rem",
+                "bottom": "1rem",
+                "left": "3rem",
+                "right": "3rem"
             }
         }
     }   

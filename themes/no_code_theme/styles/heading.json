@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "HeadingStyle",
+	"slug": "HeadingStyle",
+	"blockTypes": [ "core/heading" ],
+	"styles": {
+		"color": {
+			"text": "#000000"
+		},
+        "typography": {
+            "fontFamily": "AnonymousPro",
+            "fontSize": "2.25rem",
+            "fontWeight": "900"
+	    }
+    }   
+}
