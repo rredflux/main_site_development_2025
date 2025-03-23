@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "MainButtonStyle",
+	"slug": "MainButtonStyle",
+	"blockTypes": [ "core/button" ],
+	"styles": {
+		"border": {
+			"radius": "2rem",
+            "color": "#FFFFFF",
+            "width": "1rem"
+		},
+		"color": {
+			"text": "#FFFFFF"
+		},
+        "typography": {
+            "fontFamily": "AnonymousPro"
+	    },
+        "background": {"backgroundImage": "linear-gradient(135deg, rgb(95, 45, 146) 0%, rgb(243, 29, 119) 100%)"
+        }
+    }   
+}

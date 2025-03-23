@@ -6,11 +6,12 @@
 		"useRootPaddingAwareAlignments": true,
 		"color": {
 			"defaultPalette": false,
-			"defaultGradients": false,
+			"defaultGradients": true,
 			"defaultDuotone": false,
 			"custom": false,
-			"customGradient": false,
+			"customGradient": true,
 			"customDuotone": false,
+			"background": true,
 			"palette": [
 				{
 					"slug": "base",
