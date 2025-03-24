@@ -6,12 +6,13 @@
 	"blockTypes": [ "core/heading" ],
 	"styles": {
 		"color": {
-			"text": "#000000"
+			"text": "black"
 		},
         "typography": {
             "fontFamily": "AnonymousPro",
             "fontSize": "2.25rem",
-            "fontWeight": "900"
+            "fontWeight": "900",
+            "textAlign": "center"
 	    }
     }   
 }

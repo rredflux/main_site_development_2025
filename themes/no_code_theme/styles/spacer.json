@@ -4,9 +4,9 @@
 	"title": "SpacerStyle",
 	"slug": "SpacerStyle",
 	"blockTypes": [ "core/spacer" ],
-	"styles": {
+	"styles":{
 		"dimensions": {
-            "minHeight": "2rem"
-        }
-    }   
+			"height": "1rem"
+		}
+	}
 }
