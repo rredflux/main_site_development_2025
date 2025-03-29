@@ -10,7 +10,15 @@
 		},
         "typography": {
             "fontFamily": "AnonymousPro",
-            "fontSize": "1.25rem"
-	    }
+            "fontSize": "1.75vw"
+	    },
+		"spacing": {
+			"padding": {
+				"bottom": "",
+				"left":"3vw",
+				"right": "3vw",
+				"top": ""
+			}
+		}
     }   
 }

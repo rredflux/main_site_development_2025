@@ -15,7 +15,7 @@
 			"palette": [
 				{
 					"slug": "base",
-					"color": "#E1E1E1",
+					"color": "#FAFAFA",
 					"name": "Base"
 				},
 				{
@@ -25,7 +25,7 @@
 				},
 				{
 					"slug": "primary",
-					"color": "#E1E1E1",
+					"color": "#FAFAFA",
 					"name": "Primary"
 				},
 				{

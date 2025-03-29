@@ -6,7 +6,7 @@
 	"blockTypes": [ "core/spacer" ],
 	"styles":{
 		"dimensions": {
-			"height": "1rem"
+			"minHeight": "3vw"
 		}
 	}
 }

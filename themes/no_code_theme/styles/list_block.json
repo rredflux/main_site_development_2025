@@ -8,22 +8,23 @@
 		"border": {
             "style": "solid",
 			"radius": "1rem",
-            "color": "#FFFFFF"
+            "color": "#FFFFFF",
+            "width": "0.25rem"
 		},
 		"color": {
 			"text": "#000000"
 		},
         "typography": {
             "fontFamily": "AnonymousPro",
-            "fontSize": "1rem",
+            "fontSize": "2vw",
             "lineHeight": "1.7"
 	    },
         "spacing": {
             "padding": {
-                "top": "1rem",
-                "bottom": "1rem",
-                "left": "3rem",
-                "right": "3rem"
+                "top": "1.25vw",
+                "bottom": "1.25vw",
+                "left": "3vw",
+                "right": "3vw"
             }
         }
     }   

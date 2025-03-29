@@ -13,14 +13,14 @@
         },
         "typography": {
             "fontFamily": "AnonymousPro",
-            "fontSize": "3rem",
+            "fontSize": "5vw",
             "fontWeight": "Bold",
             "textAlign": "center"
         },
         "spacing": {
             "padding": {
-                "top":"1rem",
-                "bottom":"1rem"
+                "top":"2vw",
+                "bottom":"2vw"
             }
         }
     }   
