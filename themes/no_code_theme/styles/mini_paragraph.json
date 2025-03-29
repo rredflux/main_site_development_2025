@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "MiniParagraphyStyle",
+	"slug": "MiniParagraphyStyle",
+	"blockTypes": [ "core/paragraph" ],
+	"styles": {
+		"color": {
+			"text": "#000000"
+		},
+        "typography": {
+            "fontFamily": "AnonymousPro",
+            "fontSize": "1.5vw"
+	    },
+		"spacing": {
+			"padding": {
+				"bottom": "",
+				"left":"1vw",
+				"right": "1vw",
+				"top": ""
+			}
+		}
+    }   
+}
