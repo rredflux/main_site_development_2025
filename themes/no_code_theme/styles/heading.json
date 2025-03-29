@@ -10,7 +10,7 @@
 		},
         "typography": {
             "fontFamily": "AnonymousPro",
-            "fontSize": "2.25rem",
+            "fontSize": "3vw",
             "fontWeight": "900",
             "textAlign": "center"
 	    }
